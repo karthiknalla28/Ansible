@@ -1,4 +1,4 @@
-# Ansible-Commands
+# Configuring Ansible
 We'll install Ansible on a control node and configure two managed servers for use with Ansible. We will also create a simple inventory and run an Ansible command to verify our configuration is correct.
 
 ![image](https://github.com/user-attachments/assets/5390db05-3989-4859-9ab8-b8925526900a)
