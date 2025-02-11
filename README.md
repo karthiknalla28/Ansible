@@ -47,7 +47,7 @@ ssh cloud_user@node1
 # editing the sudoers file
 sudo visudo
 ```
-### Explanation of the below code changes in the sudoers file
+### Explanation of the below code changes which are done in the sudoers file
 - ansible → The username to which this rule applies.
 - ALL=(ALL) → The user can run commands as any user or group.
 - NOPASSWD: ALL → No password is required when using sudo
